@@ -28,7 +28,7 @@ so that my company can compete with other e-commerce companies.
 
 # Install
 
-After cloning the repo the NPM package manager will need to be installed using the command line terminal. This can be completed by invoking 'npm init' in the command line. Then 'npm install' will need to invoked as well to install the dependency files. Lastly, the application will need the following NPM pacakges: MySql2 ('npm i mysql2' will be needed to install package), Sequelize ('npm i sequelize' will be needed to install package), and Dotenv ('npm i dptenv' will be needed to install pacakge).
+After cloning the repo the NPM package manager will need to be installed using the command line terminal. This can be completed by invoking 'npm init' in the command line. Then 'npm install' will need to invoked as well to install the dependency files. The application will need the following NPM pacakges: MySql2 ('npm i mysql2' will be needed to install package), Sequelize ('npm i sequelize' will be needed to install package), and Dotenv ('npm i dptenv' will be needed to install pacakge). Lastly, while the server is running 'npm run seed" will need to invoked to seed all data.
 
 # Usage
 
