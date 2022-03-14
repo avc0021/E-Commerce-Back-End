@@ -34,7 +34,6 @@ After cloning the repo the NPM package manager will need to be installed using t
 
 To use the application a server will first need to running. To further test the code, a cross-platform desktop application that allows the user to interact with and design HTTP-based APIs will be needed. We recommend Insomnia https://insomnia.rest/download.
 
-![ Demo ]
 https://www.loom.com/share/9550e16ba6d24e14bd0471235fa81dbe
 
 # License
